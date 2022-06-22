@@ -1,5 +1,5 @@
 # Space Ivaders
-[./screenshot.png](./screenshot.png)
+![./screenshot.png](./screenshot.png)
 
 This repo contains a clone of the famous arcade game **Space Invaders**.
 The code for the game is written in `python`.
